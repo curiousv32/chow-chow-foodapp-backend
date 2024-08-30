@@ -38,7 +38,7 @@ git clone https://github.com/curiousv32/chow-chow-foodapp-backend.git
 cd chow-chow-backend
 ```
 
-```markdown
+
 ## 2. Install Dependencies
 
 ```bash
