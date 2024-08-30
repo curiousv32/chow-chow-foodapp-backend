@@ -34,6 +34,6 @@ To set up the backend on your local machine, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chow-chow-backend.git
+git clone https://github.com/curiousv32/chow-chow-foodapp-backend.git
 cd chow-chow-backend
 ```
